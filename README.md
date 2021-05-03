@@ -1,3 +1,3 @@
 # Movies-ETL
 
-# late git push command for Resources Folder due to poor internet
+- retried late submission using git lfs to upload ratings.csv, but unable due to limited bandwidth
